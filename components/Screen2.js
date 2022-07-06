@@ -11,6 +11,7 @@ function Screen2(params) {
       {txtStore.items.map((item) => (
         <Text>{item.text}</Text>
       ))}
+      <Text>firass</Text>
     </View>
   );
 }
